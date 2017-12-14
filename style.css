@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+	margin-top: 20px;
+	/*outline: 1px solid red;*/
+}
+
+ul {
+	list-style: none;
+}
+
+input {
+	width: 20%;
+}
+
+.form {
+	width: 20%;
+	margin: 50px auto 20px;
+}
+
+h1, h2 {
+	margin-top: 20px;
+}
